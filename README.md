@@ -2,4 +2,4 @@
 
 https://leekunda13.github.io/shophoa-demo/
 
-Public browser-local preview. Automatically offers 50% deposit or full payment once shipping is confirmed. Payments/emails are simulated. Private-link holder may confirm receipt only after payment and handover readiness; no real bank transactions. Google Maps needs configured restricted keys/billing. Source remains private.
+Static browser-local preview, not a live store. Demo orders do not send real email. The order screen labels this explicitly. Production requires backend/MySQL, SMTP, Google credentials and SePay webhook/bank configuration. No secrets or customer records are published.

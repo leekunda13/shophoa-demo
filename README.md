@@ -1,5 +1,5 @@
-# Tâm Hoa public demo
+# Tâm Hoa demo
 
 https://leekunda13.github.io/shophoa-demo/
 
-Browser-local preview. OSM maps + OSRM car-route estimates are for demonstration only; live production recomputes motorcycle fees with configured Goong service. No bank/SMTP secrets or real payments. Source remains private.
+Browser-local preview only. Google Maps needs a configured, restricted browser key and billing. No OSRM fallback. Production SePay/SMTP credentials belong only on the server. Deposits and emails in this demo are simulated; do not transfer real money. Source is private.
